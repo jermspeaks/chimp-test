@@ -9,6 +9,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "chimp": "^0.33.1"
+    "chimp": "^0.33.1",
+    "cucumber": "^0.10.2"
   }
 }
